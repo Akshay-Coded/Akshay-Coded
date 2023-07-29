@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-Coded
 - 👀 I’m interested in Front-end and ML/AI
-- 🌱 I’m currently learning Front-end, python libraries and c++
+- 🌱 I’m currently learning Front-end, python libraries, Java and c++
 - 💞️ I’m looking to collaborate on front-end project
 - 📫 How to reach me rajinkanthakshay321@gmail.com
 
