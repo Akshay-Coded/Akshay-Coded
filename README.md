@@ -17,11 +17,19 @@ Akshay-Coded/Akshay-Coded is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Languages and Tools
-
+<div display="inline">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
-https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg" alt="Clang" width="50"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Java-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Htmx-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CSS.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/JavaScript.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/NodeJS-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/React-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Python-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Github-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/R-Dark.svg" alt="Clang" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Windows-Dark.svg" alt="Clang" width="50"/>
+<img src="  https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Figma-Dark.svg" alt="Clang" width="50"/>
+</div>
