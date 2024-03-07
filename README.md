@@ -17,4 +17,5 @@ Akshay-Coded/Akshay-Coded is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Languages and Tools
-![Clang](https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg)
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="100"/>
