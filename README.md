@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Github-Dark.svg" alt="Clang" width="50"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/R-Dark.svg" alt="Clang" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Windows-Dark.svg" alt="Clang" width="50"/>
-<img src="  https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Figma-Dark.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Figma-Dark.svg" alt="Clang" width="50"/>
 </div>
