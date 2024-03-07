@@ -16,3 +16,5 @@ Let's code, create, and innovate together! 🚀
 Akshay-Coded/Akshay-Coded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+##Languages and Tools
+https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg
