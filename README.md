@@ -19,3 +19,9 @@ You can click the Preview link to take a look at your changes.
 ## Languages and Tools
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
+https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg" alt="Clang" width="50"/>
