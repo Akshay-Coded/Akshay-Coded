@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and curious individual exploring 
 
 - 💞 I’m actively seeking opportunities to collaborate on front-end projects. If you have a creative idea or a challenging project, let's team up and bring it to life!
 
-- 📫 How to reach me: Feel free to connect with me via email at [rajinkanthakshay321@gmail.com](mailto:rajinikanthakshay321@gmail.com). I'm always open to discussions, collaborations, and sharing knowledge.
+- 📫 How to reach me: Feel free to connect with me via email at [rajinikanthakshay321@gmail.com](mailto:rajinikanthakshay321@gmail.com). I'm always open to discussions, collaborations, and sharing knowledge.
 
 Let's code, create, and innovate together! 🚀
 
@@ -51,11 +51,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<div align="left" display="flex" align-items="space-evenly">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
+
 
 
