@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and curious individual exploring 
 
 - 💞 I’m actively seeking opportunities to collaborate on front-end projects. If you have a creative idea or a challenging project, let's team up and bring it to life!
 
-- 📫 How to reach me: Feel free to connect with me via email at [rajinkanthakshay321@gmail.com](mailto:rajinkanthakshay321@gmail.com). I'm always open to discussions, collaborations, and sharing knowledge.
+- 📫 How to reach me: Feel free to connect with me via email at [rajinkanthakshay321@gmail.com](mailto:rajinikanthakshay321@gmail.com). I'm always open to discussions, collaborations, and sharing knowledge.
 
 Let's code, create, and innovate together! 🚀
 
