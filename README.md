@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fprogramming&psig=AOvVaw39E7jbVUSTWOfot_G0IPXF&ust=1720620387926000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjr78mQmocDFQAAAAAdAAAAABBB"  />
+<img align="right" height="150" src="git.gif"  />
 
 ###
 
