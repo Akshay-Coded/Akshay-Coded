@@ -37,32 +37,8 @@ I care about a specific, unfashionable thing: **most ML results are reported und
 
 ## Recent projects
 
-| | |
+| Project | Description |
 |---|---|
 | 🌀 **[GrayDiff](https://github.com/Akshay-Coded/graydiff)** · *in progress* · **[demo](https://akshay-coded.github.io/graydiff/)** | A numerical solver runs physics forward but can't run it backward — it has no gradients to offer. So train a neural surrogate that *does*, freeze it, and gradient-descend on the physics itself until it reproduces a pattern you drew. Every answer re-verified against the real solver. <br/> `PyTorch` `ONNX` `FastAPI` |
 | 🧪 **[Litmus](https://github.com/Akshay-Coded/Litmus)** · **[demo](https://litmus-prop.streamlit.app)** | Two GNNs predicting molecular solubility and Tox21 toxicity straight from graph structure — evaluated under scaffold splits, with per-assay reliability tiers and a per-prediction applicability domain. Honest about where it breaks. <br/> `PyTorch Geometric` `RDKit` `Streamlit` |
-| 🧬 **[scVAE Ablation](https://github.com/Akshay-Coded/scvae-ablation)** | A VAE built from scratch, then a controlled ablation showing why continuous losses collapse on sparse single-cell count data — and how zero-inflated likelihoods separate technical dropout from real biology. <br/> `PyTorch` `Scanpy` `UMAP` |
-
----
-
-## Publications
-
-**Multimodal Kidney Stone Detection (CT + Ultrasound)** — IMACSI 2025 · [DOI](https://doi.org/10.5220/0014178400004932)
-
-**AI-Based Automated Diagnosis in Paediatric Dentistry** — *Frontiers in Oral Health* 2024 · [DOI](https://doi.org/10.3389/froh.2024.1482334)
-
-**AI in Disease Diagnosis: A Review** — *Cureus* 2023 · [DOI](https://doi.org/10.7759/cureus.45684)
-
----
-
-## Toolkit
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,rust,java,fastapi,docker,aws,linux,git,r&theme=dark)](https://skillicons.dev)
-
-<sub>PyTorch Geometric · RDKit · Scanpy · ONNX · Apache Spark · ROS2 · scikit-learn · OpenCV</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8957e5,50:1f6feb,100:0d1117&amp;height=100&amp;section=footer" alt="footer" />
+| 🧬 **[scVAE Ablation](https://github.com/Akshay-Coded/scvae-ablation)** | A VAE built from scratch, then a controlled ablation showing why continuous losses collapse on sparse single-cell count data — and how zero-inflated likelihoods separate technical dropout from real biology. <br/> `PyTorch` `Scanpy` `UMAP
